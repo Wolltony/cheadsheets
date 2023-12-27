@@ -30,11 +30,11 @@ Bold y Italic
 <strong><em>El rápido zorro marrón salta sobre el perro perezoso.</em></strong>
 ```
 
-###Link e hipervínculos:
+Link e hipervínculos:
 ----------------------------------------------------------------------------
 <https://github.com/Wolltony/cheadsheets/edit/main/Markdown-cheadsheets.md>
 
-###Tablas:
+Tablas:
 ----------------------------------------------------------------------------
 |  Lenguaje | Dominio |
 |-----------|---------|
@@ -45,14 +45,18 @@ Bold y Italic
 |    CSS    |    5    |
 |-----------|---------|
 
-###Listas: 
+Listas: 
 ----------------------------------------------------------------------------
 1-Javascript
+
 2-CSS
+
 3-HTML
+
 4-Figma
+
 5-Maquetación web
 
-###Imágenes: 
+Imágenes: 
 ---------------------------------------------------------------------------
 ![](https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2015/06/12/150612173542_mascota_promo_624x351_thinkstock.jpg)
