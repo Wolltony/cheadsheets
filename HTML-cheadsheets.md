@@ -34,7 +34,7 @@ Para que cualquier contenido que sea visible en tu página web, debe ir entre la
 <body>, que abre, y la etiqueta de </body>, que es la encargada de cerrar el cuerpo de la
 página.
 
-```html
+html
 <!DOCTYPE html>
 <html>
  <head>
@@ -45,23 +45,25 @@ página.
  <!-- content here -->
  </body>
 </html>
-```
 
-Etiquetas
+###Etiquetas
 
 Las etiquetas dentro de HTML son bloques de código con apertura y cierre que indican al
 navegador cómo interpretar el contenido que contienen las etiquetas (Sánchez, 2020).
 Conocer las etiquetas HTML para su posterior uso es tema de interés para todo
 desarrollador web, a continuación, el listado con las etiquetas agrupadas por categorías:
 
-Etiquetas iniciales o de raíz
+###Etiquetas iniciales o de raíz
+
 <!DOCTYPE html> Le indica al navegador el estándar en el que está basado, es
 decir, en HTML5.
 Raíz del documento. Todos los elementos tendrán que ir
 dentro de esta etiqueta.
-Etiqueta Función
+
+###Etiqueta Función
 <html> </html>
-Etiquetas para metadatos
+
+###Etiquetas para metadatos
 <head> </head> Representa un conjunto de metadatos sobre un documento,
 incluidos enlaces o descripciones de texto y hojas de estilo.
 Es donde se define el título del documento.
@@ -70,12 +72,14 @@ CSS.
 Es donde se definen los metadatos (autor, descripción,
 palabras clave).
 Es donde se incorporan las reglas de CSS.
-Etiqueta Función
+
+###Etiqueta Función
 <title> </title>
 <link>
 <meta>
 <style> </style>
-Etiquetas de secciones
+
+###Etiquetas de secciones
 <body> </body> Etiqueta que contiene todo el contenido que debe
 mostrarse en la web.
 Contiene la sección destinada a la navegación.
@@ -84,22 +88,31 @@ Contiene la sección destinada a alguna parte del
 documento.
 Contiene la sección destinada a espacios catalogados, como
 artículos o mini secciones.
-Etiqueta Función
+
+
+###Etiqueta Función
 <nav> </nav>
 <main> </main>
 <section> </section>
 <article> </article>
-05
-Explicación Fundamentos de desarrollo web
+
+
+##Explicación Fundamentos de desarrollo web
+
 <aside> </aside> Contiene la sección destinada a contenido adicional,
 generalmente una parte lateral.
-Contienen los textos que están destinados a ser títulos.
-Contiene la sección destinada a la cabecera de la página.
-Contiene la sección destinada al pie de página.
+
 <h1>,<h2>,<h3>,<h4>,<h5>,<h6>
+Contienen los textos que están destinados a ser títulos.
+ 
 <header> </header>
+Contiene la sección destinada a la cabecera de la página.
+
 <footer> </footer>
-Etiquetas para agrupación de contenidos
+Contiene la sección destinada al pie de página.
+
+ 
+###Etiquetas para agrupación de contenidos
 <p> </p> Para escribir párrafos de texto.
 Se utiliza como línea divisoria.
 Para texto manteniendo el preformato.
