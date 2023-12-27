@@ -6,7 +6,7 @@
 una diagonal, de esta forma: </h1>
 
 3. El contenido del elemento siempre se escribirá dentro de las etiquetas de apertura y
-cierre, por ejemplo: <h1>Fundamentos de diseño web</h1>
+cierre, por ejemplo: <h1> Fundamentos de diseño web </h1>
 
 4. Las etiquetas también pueden contener atributos, por ejemplo:
  <a href="http://www.enlace.com" target="_blank">Enlace</a>
