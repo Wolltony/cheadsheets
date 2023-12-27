@@ -6,7 +6,7 @@
 #### Encabezado 4
 ##### Encabezado 5
 
-```
+
 Bold
 
 **El rápido zorro marrón salta sobre el perro perezoso.**
@@ -29,5 +29,5 @@ Bold y Italic
 
 <strong><em>El rápido zorro marrón salta sobre el perro perezoso.</em></strong>
 
-``` 
+
 
