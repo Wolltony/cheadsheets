@@ -20,4 +20,13 @@ contenido de los documentos web. Además de HTML, a menudo suelen utilizarse otr
 tecnologías para definir la apariencia de una página web (con CSS), la funcionalidad o
 comportamiento (con JavaScript), (MDN Web Docs, 2022 -a).
 
+Hay que hacer énfasis en que HTML no es un lenguaje de programación, sino un lenguaje
+de marcado que le proporciona a los navegadores web reglas sobre cómo estructurar las
+páginas. Entonces, HTML consiste en una serie de elementos que se utilizan para
+encerrar, delimitar, marcar o etiquetar diferentes partes que conforman un contenido para
+hacer que obtengan una estructura, misma que será posteriormente formateada con
+otro lenguaje de etiquetado (CSS).
+
+Un elemento HTML responde a la siguiente sintaxis, haciendo uso de los símbolos “<” y “>”
+(menor que y mayor que):
 
