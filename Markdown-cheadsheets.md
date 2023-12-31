@@ -1,4 +1,4 @@
-# Mi Hoja de Trucos de Markdown 
+# MI HOJA DE TRUCOS DE MARKDOWN
 ---------------------------------------------------------
 # Encabezado 1
 ## Encabezado 2
