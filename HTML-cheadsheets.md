@@ -98,6 +98,16 @@ Es donde se incorporan las reglas de CSS.
 
 Etiquetas de secciones:
 
+<body> </body>
+Etiqueta que contiene todo el contenido que debe
+mostrarse en la web.
+
+<nav> </nav>
+Contiene la sección destinada a la navegación.
+
+<main> </main>
+
+
 
 
 
