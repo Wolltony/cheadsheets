@@ -10,30 +10,30 @@ respetando cada una de las reglas, línea por línea (cascada).
 Dentro del CSS se definen los estilos y el diseño, así como la disposición y variaciones de
 tamaño y comportamiento de los elementos.
 
-Sintaxis:
+## Sintaxis:
 
-h1
+__h1__
 
 Selector
 
 
-{color: blue; Font-size: 14px;}
+__{color: blue; Font-size: 14px;}__
 
 Declaración
 
-color: 
+__color:__ 
 
 Propiedad
 
-blue;
+__blue;__
 
 Valor
 
-Font-size:
+__Font-size:__
 
 Propiedad
 
-14px;
+__14px;__
 
 Valor
 
@@ -47,7 +47,7 @@ llaves, y separadas (preferentemente línea a línea) por punto y coma.
 separan por dos puntos.
 
 
-Maquetación:
+## Maquetación:
 
 
 Maquetar en CSS tiene como objetivo brindarle al usuario una apariencia mejorada, única
@@ -60,7 +60,7 @@ estas dos cosas, será más fácil guardar páginas y administrar información. 
 también podemos obtener páginas limpias y claras, según el código.
 
 
-Fuentes y texto:
+## Fuentes y texto:
 
 
 Las fuentes constituyen uno de los elementos más importantes en una página web, ya que
@@ -72,10 +72,10 @@ ligada a los textos. A continuación, exploraremos propiedades ligadas al tratam
 textos y fuentes:
 
 
-Propiedades del texto:
+## Propiedades del texto:
 
 
-text-indent 
+__text-indent__ 
 
 Desplazamiento de la primera línea del texto. 
 
@@ -83,91 +83,91 @@ longitud | porcentaje
 
 
 
-text-align
+__text-align__
 
 Alineación del texto.
 
 left | right | center | justify
 
 
-text-decoration
+__text-decoration__
 
 Efectos de subrayado y tachado. 
 
 none | underline | overline | line-through | * 
 
 
-letter-spacing 
+__letter-spacing__ 
 
 Espacio entre caracteres.
 
 normal | longitud 
 
 
-word-spacing 
+__word-spacing__ 
 
 Espacio entre palabras.
 
 normal | longitud
 
 
-text-transform
+__text-transform__
 
 Convertir a mayúsculas /minúsculas.
 
 capitalize | uppercase | lowercase | none 
 
 
-line-height 
+__line-height__ 
 
 Tamaño del espacio entre líneas. 
 
 longitud | porcentaje
 
 
-vertical-align
+__vertical-align__
 
 Alineación vertical.
 
 top | middle | bottom baseline | sub | super | valor
 
 
-font-family
+__font-family__
 
 Familias de fuentes. 
 
 nombre-familia|nombre-familia-genérica| * 
 
 
-font-style 
+__font-style__ 
 
 Estilo de la fuente. 
 
 normal | italic | oblique
 
 
-font-variant 
+__font-variant__ 
 
 Convierte a mayúsculas manteniendo un tamaño inferior.
 
 normal | small-caps
 
 
-font-weight
+__font-weight__
 
 Anchura de los caracteres. Normal = 400, Negrita = 700.
 
 normal | bold | bolder | lighter | 100 | 200 | 300 | 400 | 500 | 600 |700 | 800 | 900
 
 
-font-size
+__font-size__
 
 Tamaño de la fuente.
 
 xx-small | x-small | small | medium | large | x-large | xx-large | larger | smaller | longitud | porcentaje
 
 
-Color y fondos:
+## Color y fondos:
 
 
 
