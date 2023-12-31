@@ -106,6 +106,225 @@ mostrarse en la web.
 Contiene la sección destinada a la navegación.
 
 <main> </main>
+Contiene la sección destinada a la sección principal.
+
+<section> </section>
+Contiene la sección destinada a alguna parte del
+documento.
+
+<article> </article>
+Contiene la sección destinada a espacios catalogados, como
+artículos o mini secciones.
+
+<aside> </aside>
+Contiene la sección destinada a contenido adicional,
+generalmente una parte lateral.
+
+<h1>,<h2>,<h3>,<h4>,<h5>,<h6>
+Contienen los textos que están destinados a ser títulos.
+
+<header> </header>
+Contiene la sección destinada a la cabecera de la página.
+
+<footer> </footer>
+Contiene la sección destinada al pie de página.
+
+
+Etiquetas para agrupación de contenidos:
+
+<p> </p>
+Para escribir párrafos de texto.
+
+<hr>
+Se utiliza como línea divisoria.
+
+<pre> </pre>
+Para texto manteniendo el preformato.
+
+<blockquote> </blockquote>
+Texto indicativo para citar una fuente.
+
+<ol> </ol>
+Etiqueta para la creación de listas ordenadas.
+
+<li> </li>
+Etiqueta para la creación de listas desordenadas.
+
+<li> </li>
+Etiqueta que contiene elementos de listas (ordenadas o
+desordenadas). Generalmente los elementos li se
+encuentran anidados en los elementos ol o ul.
+
+<dl> </dl>
+Etiqueta para la creación de listas de definiciones.
+
+<dt> </dt>
+Especifica un término, descripción o definición. Se utiliza
+dentro del elemento dl.
+
+<dd> </dd>
+Provee detalles sobre la definición de un término que
+procede de dt.
+
+<figure> </figure>
+Representa contenido independiente.
+
+<figcaption> </figcaption>
+Define la leyenda de una figura.
+
+<div> </div>
+Etiqueta para originar un contenedor genérico.
+
+
+Etiquetas semánticas para texto:
+
+
+<a> </a>
+Etiqueta para hiperenlaces.
+
+<strong> </strong>, <b> </b>
+Formato en bold.
+
+<em> </em>, <i> </i>
+Formato en itálica.
+
+<u> </u>
+Formato en subrayado.
+
+<small> </small>
+Formato de comentario tipo nota.
+
+<cite> </cite>
+Formato para marcar una referencia o fuente.
+
+<sub> </sub> y <sup> </sup>
+Para marcar subíndices y superíndices.
+
+<mark> </mark>
+Formato de resaltado de texto.
+
+<span> </span>
+Contenedor de texto sin un significado en específico.
+
+<br>
+Salto de línea.
+
+
+
+Etiquetas de incrustado de contenido:
+
+
+<img>
+Etiqueta para insertar imágenes.
+
+<iframe> </iframe>
+Etiqueta que “anida” otro documento HTML.
+
+<embed>
+Integración de contenido o aplicación externo.
+
+
+<object> </object>
+Se utiliza para llamar a un recurso externo.
+
+<video> </video>
+Etiqueta para insertar archivos de video.
+
+<audio> </audio>
+Etiqueta para insertar archivos de audio.
+
+<source>
+Etiqueta para insertar recursos multimedia alternativos.
+
+<svg> </svg>
+Etiqueta para insertar imagen vectorizada.
+
+
+Etiquetas para manejo de tablas:
+
+
+<img>
+Apertura y cierre de una tabla. Todas las etiquetas de
+manejo de tablas deben ir dentro de esta etiqueta.
+
+<iframe> </iframe>
+Indica el título de una tabla.
+
+<embed>
+Agrupación de columnas de una tabla.
+
+<object> </object>
+Cuerpo de una tabla
+
+<audio> </audio>
+Cabecera de la tabla que describe los títulos de las
+columnas.
+
+<source>
+Última fila de una tabla, generalmente el pie.
+Para indicar las filas (table row).
+
+<svg> </svg>
+Para indicar las filas (table row).
+
+<td> </td>
+Para definir una celda de una tabla.
+
+<th> </th>
+Para definir el encabezado de una celda.
+
+
+Formularios:
+
+La parte interactiva de HTML son los formularios, espacios en donde el usuario suele
+introducir valores numéricos, textuales, de fechas, rangos u opciones como activar,
+desactivar, verdadero, falso, etc. (MDN Web Docs, 2022, -a).
+
+
+Etiquetas para la creación de formularios:
+
+
+<form> </form>
+Etiqueta de apertura y cierra que engloba un formulario.
+Todas las etiquetas sobre formularios deben de ir dentro
+de ésta.
+
+
+<fieldset> </fieldset>
+Permite organizar grupos de campos.
+
+
+<legend> </legend>
+Ligada al fieldset indica el título del fieldset.
+
+
+<label> </label>
+Leyenda, nombre o título de un control de formulario.
+
+
+input>
+Campo de introducción de datos para el usuario. Se le da
+diferente finalidad haciendo uso de sus atributos.
+
+
+<button> </button>
+Botón dentro del formulario.
+
+
+<select> </select> I
+Input para la selección entre un conjunto de opciones.
+
+
+<option> </option>
+Está ligada a select, que permite añadir opciones.
+
+
+<textarea> </textarea> 
+Campo de introducción de texto.
+
+
+
+
 
 
 
