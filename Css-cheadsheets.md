@@ -167,7 +167,82 @@ Tamaño de la fuente.
 xx-small | x-small | small | medium | large | x-large | xx-large | larger | smaller | longitud | porcentaje
 
 
+
 ## Color y fondos:
+
+
+Los colores en CSS se pueden indicar de cinco formas distintas:
+• Por palabras clave.
+• Por colores del sistema.
+• Por RGB.
+• Por Hexadecimal.
+• Por RGB numérico y RBG porcentual.
+
+A continuación, se presenta una tabla con colores básicos:
+
+__black__
+
+HEX
+
+#000000
+
+RGB
+
+0,0,0
+
+
+__white__
+
+#ffffff
+
+255,255,255
+
+
+__red__
+
+#ff0000
+
+255,0,0
+
+
+__blue__
+
+#0000ff
+
+0,0,255
+
+
+__yellow__
+
+#ffff00
+
+255,255,0
+
+
+__gray__
+
+
+#808080
+
+128,128,128
+
+
+
+__green__
+
+
+#008000
+
+
+0,128,0 
+
+
+
+
+
+
+
+
 
 
 
