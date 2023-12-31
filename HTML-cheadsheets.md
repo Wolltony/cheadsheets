@@ -1,3 +1,3 @@
 ### MI HOJA DE TRUCOS DE HTML
 -----------------------------
-##_Estructura de un documento de HTML_
+## __Estructura de un documento de HTML__
