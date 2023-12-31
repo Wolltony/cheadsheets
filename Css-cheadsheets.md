@@ -10,7 +10,7 @@ respetando cada una de las reglas, línea por línea (cascada).
 Dentro del CSS se definen los estilos y el diseño, así como la disposición y variaciones de
 tamaño y comportamiento de los elementos.
 
-Sintaxis
+Sintaxis:
 
 h1
 Selector
