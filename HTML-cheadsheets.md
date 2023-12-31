@@ -30,8 +30,7 @@ otro lenguaje de etiquetado (CSS).
 Un elemento HTML responde a la siguiente sintaxis, haciendo uso de los símbolos “<” y “>”
 (menor que y mayor que):
 
-1. Un elemento comienza con una etiqueta de apertura de una forma como ésta:
-**<h1>**
+1. Un elemento comienza con una etiqueta de apertura de una forma como ésta: <h1>
 
 2. Un elemento termina con una etiqueta de cierre, igual que la de apertura, pero con
 una diagonal, de esta forma: </h1>
