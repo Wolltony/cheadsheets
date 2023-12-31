@@ -59,3 +59,16 @@ Para que cualquier contenido que sea visible en tu página web, debe ir entre la
 <body>, que abre, y la etiqueta de </body>, que es la encargada de cerrar el cuerpo de la
 página.
 
+## __Etiquetas___
+
+Las etiquetas dentro de HTML son bloques de código con apertura y cierre que indican al
+navegador cómo interpretar el contenido que contienen las etiquetas (Sánchez, 2020).
+Conocer las etiquetas HTML para su posterior uso es tema de interés para todo
+desarrollador web, a continuación, el listado con las etiquetas agrupadas por categorías:
+
+### __Etiquetas iniciales o de raíz__
+
+Etiqueta                      Función
+-------------------------------------
+
+
