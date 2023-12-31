@@ -276,7 +276,202 @@ Posición de la imagen de fondo.
 scroll | fixed 
 
 
+__background-position__ 
 
+Posición de la imagen de fondo. 
+
+percentage | length | left | center | right
+
+
+__background-size__
+
+
+Tamaño de la imagen de fondo.
+
+ valor
+
+ 
+__Opacity__
+
+Transparencia de un elemento.
+
+t [ 0 – 1 ] (0 ° totalmente transparente) 
+
+
+
+## Listas
+
+
+Las listas en HTML son aquellos elementos textuales que nos permiten crear conjuntos de
+elementos en forma de lista, pueden encontrarse como listas ordenadas, listas
+desordenadas, o listas de definiciones (ManualWeb, s.f.). A continuación, sus propiedades:
+
+
+__list-style-type__ 
+
+Estilo aplicable a los marcadores visuales de las listas.
+
+
+disc | circle | square | decimal | decimal-leading-zero | lower-roman | upper-roman | lower-greek | lower-latin |
+upper-latin | armenian | georgian | lower-alpha | upper-alpha | none
+
+
+
+__list-style-image__
+
+Imagen aplicable a los elementos de las listas.
+
+url(«…») | none
+
+
+
+__list-style-position__
+
+Posición dentro de la lista de los elementos marcadores de las listas.
+
+inside | outside
+
+
+
+__list-style__
+
+Permite establecer el estilo de la lista, la imagen y/o la posición.
+
+list-style-type | list-style-position | list-style-image 
+
+
+
+## Bordes
+
+Los bordes son propiedades que se sirven para establecer a los elementos un ancho, estilo
+y color.
+
+Las propiedades de los bordes se establecen en los cuatro lados del contendedor y adicional al borde,
+existen secciones internas (padding) y externas (margin), que es el espacio entre el borde y el contenedor 
+(para el padding) y de otros elementos y el borde (margin). Sus propiedades son las siguientes:
+
+__Propiedades de los borders:__
+
+
+__padding-top
+padding-right
+padding-bottom
+padding-left__
+
+Tamaño del relleno superior, derecho, inferior e izquierdo. 
+
+longitud | porcentaje 
+
+
+
+__padding__
+
+Tamaño del relleno. 
+
+longitud | porcentaje {1,4}
+
+
+
+__margin-top
+margin-right
+margin-bottom
+margin-left__
+
+Tamaño del margen superior, derecho, inferior e izquierdo. 
+
+longitud | porcentaje | auto
+
+
+
+__margin__ 
+
+Ancho de los márgenes. 
+
+longitud | porcentaje | auto {1,4}
+
+
+
+__border-top-width
+border-right-width
+border-bottom-width
+border-left-width__
+
+Anchura del borde superior, derecho, inferior o izquierdo. 
+
+thin | medium | thick | longitud
+
+
+
+__border-width__
+
+Anchura del borde (reducida). 
+
+thin | medium | thick | longitud {1,4}
+
+
+
+__border-top-color
+border-right-color
+border-bottom-color
+border-left-color__
+
+Color del borde superior, derecho, inferior e izquierdo. 
+
+color | transparent
+
+
+
+__border-color__
+
+Color del borde (reducida).
+
+color | transparent {1,4}
+
+
+
+__border-top-style
+border-right-style
+border-bottom-style
+border-left-style__
+
+Estilo del borde superior, derecho, inferior e izquierdo.
+
+none | hidden | dotted | dashed | solid | double | groove | ridge | inset | outset
+
+
+
+__border-style__
+
+Estilo del borde (reducida).
+
+none | hidden | dotted | dashed | solid | double | groove | ridge | inset | outset {1,4}
+
+
+
+__border-top
+border-right
+border-bottom
+border-left__
+
+Ancho, estilo y color para el borde superior, derecho, inferior e izquierdo.
+
+border-top-width | border-top-style | border-top-color
+
+
+
+__border__
+
+Ancho, estilo y color para los bordes (reducida).
+
+border-width | border-style | border-color 
+
+
+
+__border-radius__ 
+
+Curvatura del borde. 
+
+longitud | porcentaje {1,4}
 
 
 
