@@ -76,69 +76,94 @@ Propiedades del texto:
 
 
 text-indent 
+
 Desplazamiento de la primera línea del texto. 
+
 longitud | porcentaje
 
 
 
 text-align
+
 Alineación del texto.
+
 left | right | center | justify
 
 
 text-decoration
+
 Efectos de subrayado y tachado. 
+
 none | underline | overline | line-through | * 
 
 
 letter-spacing 
+
 Espacio entre caracteres.
+
 normal | longitud 
 
 
 word-spacing 
+
 Espacio entre palabras.
+
 normal | longitud
 
 
 text-transform
+
 Convertir a mayúsculas /minúsculas.
-capitalize | uppercase |
-lowercase | none 
+
+capitalize | uppercase | lowercase | none 
 
 
 line-height 
+
 Tamaño del espacio entre líneas. 
+
 longitud | porcentaje
 
 
 vertical-align
+
 Alineación vertical.
+
 top | middle | bottom baseline | sub | super | valor
 
 
 font-family
+
 Familias de fuentes. 
+
 nombre-familia|nombre-familia-genérica| * 
 
 
 font-style 
+
 Estilo de la fuente. 
+
 normal | italic | oblique
 
 
 font-variant 
+
 Convierte a mayúsculas manteniendo un tamaño inferior.
+
 normal | small-caps
 
 
 font-weight
+
 Anchura de los caracteres. Normal = 400, Negrita = 700.
+
 normal | bold | bolder | lighter | 100 | 200 | 300 | 400 | 500 | 600 |700 | 800 | 900
 
 
 font-size
+
 Tamaño de la fuente.
+
 xx-small | x-small | small | medium | large | x-large | xx-large | larger | smaller | longitud | porcentaje
 
 
