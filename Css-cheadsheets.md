@@ -178,7 +178,7 @@ Los colores en CSS se pueden indicar de cinco formas distintas:
 • Por Hexadecimal.
 • Por RGB numérico y RBG porcentual.
 
-A continuación, se presenta una tabla con colores básicos:
+A continuación, se presentan los colores básicos:
 
 __black__
 
@@ -238,7 +238,42 @@ __green__
 
 
 
+## Propiedades de color y fondo
 
+
+__color__
+
+Color del texto 
+
+RGB | HSL | HEX | nombre del color | RGBA | HSLA
+
+__background-color__
+
+Color de fondo 
+
+RGB | HSL | HEX | nombre del color | RGBA | HSLA
+
+
+
+__background-image__
+
+Imagen de fondo 
+
+url(…)| none
+
+
+__background-repeat__
+
+Repetición de la imagen de fondo.
+
+repeat | repeat-x | repeat-y | no-repeat 
+
+
+__background-attachment__
+
+Posición de la imagen de fondo. 
+
+scroll | fixed 
 
 
 
