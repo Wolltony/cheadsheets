@@ -60,4 +60,89 @@ estas dos cosas, será más fácil guardar páginas y administrar información. 
 también podemos obtener páginas limpias y claras, según el código.
 
 
+Fuentes y texto:
+
+
+Las fuentes constituyen uno de los elementos más importantes en una página web, ya que
+representa los recursos que el usuario tendrá a su disposición en forma de información
+textual, esencial para la transmisión de ideas a los usuarios. Las fuentes comprenden:
+títulos, párrafos, pies de página, contenido textual de tablas e información en general,
+tomando en cuenta el tipo de letra, su color, tamaño, sombra y cualquier característica
+ligada a los textos. A continuación, exploraremos propiedades ligadas al tratamiento de los
+textos y fuentes:
+
+
+Propiedades del texto:
+
+
+text-indent 
+Desplazamiento de la primera línea del texto. 
+longitud | porcentaje
+
+
+
+text-align
+Alineación del texto.
+left | right | center | justify
+
+
+text-decoration
+Efectos de subrayado y tachado. 
+none | underline | overline | line-through | * 
+
+
+letter-spacing 
+Espacio entre caracteres.
+normal | longitud 
+
+
+word-spacing 
+Espacio entre palabras.
+normal | longitud
+
+
+text-transform
+Convertir a mayúsculas /minúsculas.
+capitalize | uppercase |
+lowercase | none 
+
+
+line-height 
+Tamaño del espacio entre líneas. 
+longitud | porcentaje
+
+
+vertical-align
+Alineación vertical.
+top | middle | bottom baseline | sub | super | valor
+
+
+font-family
+Familias de fuentes. 
+nombre-familia|nombre-familia-genérica| * 
+
+
+font-style 
+Estilo de la fuente. 
+normal | italic | oblique
+
+
+font-variant 
+Convierte a mayúsculas manteniendo un tamaño inferior.
+normal | small-caps
+
+
+font-weight
+Anchura de los caracteres. Normal = 400, Negrita = 700.
+normal | bold | bolder | lighter | 100 | 200 | 300 | 400 | 500 | 600 |700 | 800 | 900
+
+
+font-size
+Tamaño de la fuente.
+xx-small | x-small | small | medium | large | x-large | xx-large | larger | smaller | longitud | porcentaje
+
+
+Color y fondos:
+
+
 
