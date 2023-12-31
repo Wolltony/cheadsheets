@@ -13,22 +13,28 @@ tamaño y comportamiento de los elementos.
 Sintaxis:
 
 h1
+
 Selector
 
 
 {color: blue; Font-size: 14px;}
+
 Declaración
 
 color: 
+
 Propiedad
 
 blue;
+
 Valor
 
 Font-size:
+
 Propiedad
 
 14px;
+
 Valor
 
 • El selector hace referencia a la etiqueta HTML a la que se le quiere aplicar el
